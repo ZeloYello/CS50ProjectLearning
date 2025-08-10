@@ -26,7 +26,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 | **Runoff**        | Simulates a ranked-choice (instant runoff) election system where voters rank candidates and last-place candidates are eliminated until a winner emerges. | Multi-dimensional arrays, structs, boolean logic, loops, election algorithms. | [![asciicast](https://asciinema.org/a/5BgciGNCZAlWVQ1Yr31pO9vL3.svg)](https://asciinema.org/a/5BgciGNCZAlWVQ1Yr31pO9vL3) |
 | **Volume**   | Modifies the volume of a .wav audio file by scaling each audio sample by a user-specified factor. | File I/O, binary data processing, audio sampling, buffer manipulation. | [![asciicast](https://asciinema.org/a/XIOqMvoRnvC5jMddluZXsh3Yo.svg)](https://asciinema.org/a/XIOqMvoRnvC5jMddluZXsh3Yo) |
 | **Speller** | Checks text for misspellings using a dictionary. | Hash tables, tries, file I/O, complexity analysis. | [![asciicast](https://asciinema.org/a/12348.svg)](https://asciinema.org/a/12348) |
-| **Filter (More)** | Applies visual filters to images. | Image processing, nested loops, multidimensional arrays. | [![asciicast](https://asciinema.org/a/12349.svg)](https://asciinema.org/a/12349) |
+| **Filter (More)** | Applies visual filters to images. | Image processing, nested loops, multidimensional arrays. | https://github.com/ZeloYello/CS50ProjectLearning/blob/main/cs50-filters.md |
 
 ---
 
