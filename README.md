@@ -52,6 +52,8 @@ Each module represents a milestone in my learning, from basic problem solving to
 | Project | Description | Skills Learned | Demo |
 |---------|-------------|----------------|------|
 | **Password Manager** *(if applicable)* | Securely stores and retrieves user credentials. | Hashing, authentication, SQL, encryption. | [![asciicast](https://asciinema.org/a/12352.svg)](https://asciinema.org/a/12352) |
+| Songs | SQL queries on a Spotify dataset to analyze top streamed songs of 2018, exploring song attributes, ordering, filtering, and aggregation. | SQL querying, database exploration, data filtering, aggregation functions, pattern matching. | N/A |
+
 
 ---
 
