@@ -28,6 +28,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 | **Speller** | Checks text for misspellings using a dictionary. | Hash tables, tries, file I/O, complexity analysis. | [![asciicast](https://asciinema.org/a/12348.svg)](https://asciinema.org/a/12348) |
 | **Filter (More)** | Applies visual filters to images. | Image processing, nested loops, multidimensional arrays. | https://github.com/ZeloYello/CS50ProjectLearning/blob/main/cs50-filters.md |
 | **Recover** | Program to recover JPEG images from a raw memory card file by scanning for JPEG signatures and extracting files. | File I/O, byte level data processing, buffer manipulation, working with binary files in C. |
+| **Inheritance** | Simulates genetic inheritance of blood types across multiple generations using structs and pointers in C. Creates family tree and assigns alleles randomly based on parents. | Recursion, structs, pointers, dynamic memory allocation, randomness in C. | [![asciicast](https://asciinema.org/a/Dak09ZeJAYXmo1oM0PDxW1pTr.svg)](https://asciinema.org/a/Dak09ZeJAYXmo1oM0PDxW1pTr) |
 
 
 
