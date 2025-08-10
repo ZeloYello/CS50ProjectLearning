@@ -44,6 +44,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 | **CS50 Finance** | Stock trading simulator with real-time data. | Flask, HTML/CSS, Jinja, SQL, API integration, authentication. | [![asciicast](https://asciinema.org/a/12350.svg)](https://asciinema.org/a/12350) |
 | **Birthdays** | Simple app to store and display birthdays. | Flask, SQLite, CRUD operations. | [![asciicast](https://asciinema.org/a/12351.svg)](https://asciinema.org/a/12351) |
 
+
 ---
 
 ## 🟣 Module 4 – Databases & Backend Systems
@@ -52,7 +53,9 @@ Each module represents a milestone in my learning, from basic problem solving to
 | Project | Description | Skills Learned | Demo |
 |---------|-------------|----------------|------|
 | **Password Manager** *(if applicable)* | Securely stores and retrieves user credentials. | Hashing, authentication, SQL, encryption. | [![asciicast](https://asciinema.org/a/12352.svg)](https://asciinema.org/a/12352) |
-| Songs | SQL queries on a Spotify dataset to analyze top streamed songs of 2018, exploring song attributes, ordering, filtering, and aggregation. | SQL querying, database exploration, data filtering, aggregation functions, pattern matching. | N/A |
+| **Songs** | SQL queries on a Spotify dataset to analyze top streamed songs of 2018, exploring song attributes, ordering, filtering, and aggregation. | SQL querying, database exploration, data filtering, aggregation functions, pattern matching. | N/A |
+| **Movies** | SQL queries on an IMDb database to analyze movies, actors, directors, release years, and ratings. Covers filtering, aggregation, and joins in SQL. | SQL querying, database exploration, aggregation functions, joins, filtering, sorting. | N/A |
+
 
 
 ---
