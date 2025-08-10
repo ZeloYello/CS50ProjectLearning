@@ -1,6 +1,6 @@
 # ReportFix
 
-![ReportFix Logo](path/to/logo.png)  <!-- Optional: Add your logo here -->
+![ReportFix Logo](img/download.png)  <!-- Optional: Add your logo here -->
 
 ---
 
