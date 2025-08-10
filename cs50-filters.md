@@ -17,6 +17,6 @@ You can apply only one filter at a time using command line flags:
 | Filter     | Input Image                                   | Output Image                                  |
 |------------|----------------------------------------------|----------------------------------------------|
 | Grayscale  | ![grayscale input](img/courtyard.bmp) | ![grayscale output](img/images-grayscale.bmp) |
-| Sepia      | ![sepia input](img/stadium.bmp)          | ![sepia output](img/stadium.bmp)         |
+| Sepia      | ![sepia input](img/stadium.bmp)          | ![sepia output](img/stadium-sepia.bmp)         |
 | Blur       | ![blur input](img/yard.bmp)             | ![blur output](img/yard-blurred.bmp)            |
 | Reflect    | ![reflect input](img/tower.bmp)       | ![reflect output](img/tower-reflected.bmp)      |
