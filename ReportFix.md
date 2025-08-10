@@ -1,12 +1,12 @@
 # ReportFix
 
-![ReportFix Logo](img/download.png)  <!-- Optional: Add your logo here -->
+![ReportFix Logo](img/download.png) 
 
 ---
 
 ## Overview
 
-**ReportFix** is a community-driven web application designed to empower citizens to report infrastructure issues quickly and easily. Users can submit reports with descriptions, categories, photos, and map locations. Admin users have tools to review, manage, and resolve reported issues.
+**ReportFix** is a community driven web application designed for citizens to report infrastructure issues quickly and easily. Users can submit reports with descriptions, categories, photos, and map locations. Admin users have tools to review, manage, and resolve reported issues.
 
 ---
 
@@ -32,11 +32,7 @@
 
 ---
 
-## Installation & Setup
+## Video Demo
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/reportfix.git
-   cd reportfix
+[![Watch the demo](https://youtu.be/A6LCdftIs40/vi/VIDEO_ID/0.jpg)](https://youtu.be/A6LCdftIs40)
 
