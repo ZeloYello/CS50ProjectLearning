@@ -29,6 +29,8 @@ Each module represents a milestone in my learning, from basic problem solving to
 | **Filter** | Applies visual filters to images. | Image processing, nested loops, multidimensional arrays. | [Filter](https://github.com/ZeloYello/CS50ProjectLearning/blob/main/cs50-filters.md) |
 | **Recover** | Program to recover JPEG images from a raw memory card file by scanning for JPEG signatures and extracting files. | File I/O, byte level data processing, buffer manipulation, working with binary files in C. |
 | **Inheritance** | Simulates genetic inheritance of blood types across multiple generations using structs and pointers in C. Creates family tree and assigns alleles randomly based on parents. | Recursion, structs, pointers, dynamic memory allocation, randomness in C. | [![asciicast](https://asciinema.org/a/Dak09ZeJAYXmo1oM0PDxW1pTr.svg)](https://asciinema.org/a/Dak09ZeJAYXmo1oM0PDxW1pTr) |
+| **DNA** | Program that analyzes a DNA sequence to identify a person by matching STR counts against a DNA database using Python. | File I/O, string processing, pattern matching, CSV handling in Python. | [![asciicast](https://asciinema.org/a/FeHhmzNxJe5FqlEyFqF7L2c76.svg)](https://asciinema.org/a/FeHhmzNxJe5FqlEyFqF7L2c76) |
+
 
 
 
