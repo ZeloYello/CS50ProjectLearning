@@ -21,6 +21,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 
 | Project | Description | Skills Learned | Demo |
 |---------|-------------|----------------|------|
+| **Sort** | Analyzes three compiled programs to determine which sorting algorithm they implement (selection, bubble, or merge sort) and explains reasoning. | Algorithm analysis, time complexity, sorting methods, experimentation with input data. |  |
 | **Speller** | Checks text for misspellings using a dictionary. | Hash tables, tries, file I/O, complexity analysis. | [![asciicast](https://asciinema.org/a/12348.svg)](https://asciinema.org/a/12348) |
 | **Filter (More)** | Applies visual filters to images. | Image processing, nested loops, multidimensional arrays. | [![asciicast](https://asciinema.org/a/12349.svg)](https://asciinema.org/a/12349) |
 
