@@ -34,5 +34,6 @@
 
 ## Video Demo
 
-[![Watch the demo](https://youtu.be/A6LCdftIs40/vi/VIDEO_ID/0.jpg)](https://youtu.be/A6LCdftIs40)
+[![Watch the demo](https://img.youtube.com/vi/A6LCdftIs40/0.jpg)](https://www.youtube.com/watch?v=A6LCdftIs40)
+
 
