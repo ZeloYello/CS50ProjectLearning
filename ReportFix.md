@@ -10,15 +10,39 @@
 
 ---
 
-## Features
 
-- **User Authentication:** Secure registration, login, and logout with password hashing.
-- **Issue Reporting:** Submit reports with text descriptions, categories, geolocation (via map), and image uploads.
-- **Interactive Map:** Visualize all open reports on a dynamic map interface.
-- **Admin Dashboard:** Admins can view all reports and mark issues as resolved.
-- **Photo Uploads:** Support for multiple image formats to accompany reports.
-- **Flash Messaging:** Feedback notifications for user actions.
-- **Security:** Session management and role-based access control.
+- ## Features
++ User Authentication: Registration, login, and logout with password hashing for security
+
++ Issue Reporting: Submit reports including a title, description, image upload, and automatic geolocation via Leaflet.js
+
++ Image Handling: Supports uploading photos as proof of reported issues
+
++ Admin Dashboard: An admin panel that displays all reports, allows marking issues as resolved
+
++ SQLite Database: Stores user accounts, report data, and status updates reliably.
+
++ Error Handling: Provides user-friendly messages when input validation fails or errors occur.
+
+---
+
+## templates/
+
++ admin.html: displays a dashboard for admins 
+
++ apology.html: error handling template that provides error messages
+
++ index.html: homepage with an overview and tutorial
+
++ layout.html: base template for all the other templates 
+
++ login.html: provides a login form for the users 
+
++ map.html: shows a map with all the currently active problems
+
++ register.html: provides a register form for the users
+
++ report.html: displays a form where the users can report the issue
 
 ---
 
