@@ -27,6 +27,9 @@ Each module represents a milestone in my learning, from basic problem solving to
 | **Volume**   | Modifies the volume of a .wav audio file by scaling each audio sample by a user-specified factor. | File I/O, binary data processing, audio sampling, buffer manipulation. | [![asciicast](https://asciinema.org/a/XIOqMvoRnvC5jMddluZXsh3Yo.svg)](https://asciinema.org/a/XIOqMvoRnvC5jMddluZXsh3Yo) |
 | **Speller** | Checks text for misspellings using a dictionary. | Hash tables, tries, file I/O, complexity analysis. | [![asciicast](https://asciinema.org/a/12348.svg)](https://asciinema.org/a/12348) |
 | **Filter (More)** | Applies visual filters to images. | Image processing, nested loops, multidimensional arrays. | https://github.com/ZeloYello/CS50ProjectLearning/blob/main/cs50-filters.md |
+| Recover | Forensic program to recover JPEG images from a raw memory card file by scanning for JPEG signatures and extracting files. | File I/O, byte-level data processing, buffer manipulation, working with binary files in C. |
+
+
 
 ---
 
