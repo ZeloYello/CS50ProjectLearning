@@ -43,6 +43,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 |---------|-------------|----------------|------|
 | **CS50 Finance** | Stock trading simulator with real-time data. | Flask, HTML/CSS, Jinja, SQL, API integration, authentication. | [![asciicast](https://asciinema.org/a/12350.svg)](https://asciinema.org/a/12350) |
 | **Birthdays** | Simple app to store and display birthdays. | Flask, SQLite, CRUD operations. | [![asciicast](https://asciinema.org/a/12351.svg)](https://asciinema.org/a/12351) |
+| **Trivia Webpage** | A simple interactive trivia webpage with multiple choice and free response questions. Users get immediate visual feedback on answers via JavaScript that changes button/input colors and displays correctness messages. | HTML, CSS, JavaScript, DOM manipulation, event handling, user interaction design | N/A |
 
 
 ---
