@@ -8,9 +8,9 @@ Each module represents a milestone in my learning, from basic problem solving to
 
 | Project | Description | Skills Learned | Demo |
 |---------|-------------|----------------|------|
-| **Mario (More)** | Generates a pyramid of hashes based on user input. | Loops, conditionals, user input, problem decomposition. | [![asciicast](https://asciinema.org/a/aLckIpejwaFdjQwN3yXr7LGhJ.svg)](https://asciinema.org/a/aLckIpejwaFdjQwN3yXr7LGhJ)|
-| **Cash** | Calculates minimum coins needed for change. | Greedy algorithms, floating-point precision handling. | [![asciicast](https://asciinema.org/a/12346.svg)](https://asciinema.org/a/12346) |
-| **Credit** | Validates credit card numbers using Luhn’s algorithm. | String manipulation, mathematical logic, algorithms. | [![asciicast](https://asciinema.org/a/12347.svg)](https://asciinema.org/a/12347) |
+| **Mario** | Generates a pyramid of hashes based on user input. | Loops, conditionals, user input, problem decomposition. | [![asciicast](https://asciinema.org/a/aLckIpejwaFdjQwN3yXr7LGhJ.svg)](https://asciinema.org/a/aLckIpejwaFdjQwN3yXr7LGhJ)|
+| **Cash** | Calculates minimum coins needed for change. | Greedy algorithms, floating-point precision handling. | [![asciicast](https://asciinema.org/a/dPjSDHZth8vslygLUbhODQxw5.svg)](https://asciinema.org/a/dPjSDHZth8vslygLUbhODQxw5) |
+| **Scrabble** | Compares two words to determine the winner based on Scrabble letter scores. | Arrays, ASCII manipulation, string handling, loops, conditionals. | [![asciicast](https://asciinema.org/a/FPz1ZYCN9knfpmMON1j4rTwFC.svg)](https://asciinema.org/a/FPz1ZYCN9knfpmMON1j4rTwFC) |
 
 ---
 
