@@ -70,7 +70,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 
 | Project | Description | Skills Learned | Demo |
 |---------|-------------|----------------|------|
-| **Community Infrastructure Reporter** | Web platform for reporting infrastructure issues, with map integration and image upload. | Flask, Leaflet.js, file uploads, user authentication, admin dashboard, CRUD. | [![asciicast](https://asciinema.org/a/12353.svg)](https://asciinema.org/a/12353) |
+| **ReportFix** | A Flask web app for community infrastructure issue reporting with user authentication, photo uploads, and map-based visualization. Admins can manage and resolve reports. | Python, Flask, SQLite, JavaScript, Leaflet.js | [Report Fix](URL) |
 
 ---
 
