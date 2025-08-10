@@ -74,7 +74,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 
 ---
 
-## 📈 Suggested Learning Path
+## Learning Path
 1. **Module 1:** Focus on problem-solving and syntax.
 2. **Module 2:** Explore data structures for efficiency.
 3. **Module 3:** Build dynamic web pages with backend logic.
@@ -83,7 +83,4 @@ Each module represents a milestone in my learning, from basic problem solving to
 
 ---
 
-### 🎯 About This Curriculum
-This repository serves as both a **portfolio** and a **learning roadmap**, demonstrating the progression of skills gained throughout CS50 and related projects.
 
----
