@@ -69,7 +69,7 @@ Each module represents a milestone in my learning, from basic problem solving to
 
 | Project | Description | Skills Learned | Demo |
 |---------|-------------|----------------|------|
-| **ReportFix** | A Flask web app for community infrastructure issue reporting with user authentication, photo uploads, and map-based visualization. Admins can manage and resolve reports. | Python, Flask, SQLite, JavaScript, Leaflet.js | [Report Fix](URL) |
+| **ReportFix** | A Flask web app for community infrastructure issue reporting with user authentication, photo uploads, and map-based visualization. Admins can manage and resolve reports. | Python, Flask, SQLite, JavaScript, Leaflet.js | [![Watch the demo](https://img.youtube.com/vi/A6LCdftIs40/0.jpg)](https://www.youtube.com/watch?v=A6LCdftIs40) |
 
 ---
 
